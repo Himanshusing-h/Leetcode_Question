@@ -13,12 +13,14 @@ class Solution {
             //The for loop moves across columns.
 //But it is moving on the bottom row (mat[lr][j]).
 //Before traversing, you must make sure that the bottom row still exists.
+//Does the bottom row still exist?"
             if(fr<=lr){
             for(int j=fc;j<=lc;j++){
                 list.add(matrix[fr][j]);
             }
             }
             fr++;
+           // Does the left column still exist?"
             if(fc<=lc){
             for(int i=fr;i<=lr;i++){
                 list.add(matrix[i][lc]);
