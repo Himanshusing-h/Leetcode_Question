@@ -16,13 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
