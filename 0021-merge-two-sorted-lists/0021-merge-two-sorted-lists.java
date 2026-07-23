@@ -38,7 +38,7 @@ class Solution {
         }
         if(i==null)k.next=j;
         if(j==null)k.next=i;
-        //dummy head is -1 that why dummy.next
+        //dummy head is -1 that why dummy.next or k.next to nai krenge kyuki k to null pe hoga
         return dummy.next;
         
     }
