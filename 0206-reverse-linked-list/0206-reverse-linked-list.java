@@ -12,6 +12,8 @@ class Solution {
     public ListNode reverseList(ListNode head) {
         //edge case
         if(head==null)return head;
+        Solution sc=new Solution();
+        return sc.recursive(head);
 //         //created temporary node 
 
 //  ListNode temp=head;
@@ -40,16 +42,28 @@ class Solution {
 // }
 //good approach
 //explantion in notes
-ListNode previous=null;
-ListNode current=head;
-ListNode forward=head;
-while(current!=null)
-{
-    forward=current.next;
-    current.next=previous;
-    previous=current;
-    current=forward;
-}
-return previous;
+// ListNode previous=null;
+// ListNode current=head;
+// ListNode forward=head;
+// while(current!=null)
+// {
+//     forward=current.next;
+//     current.next=previous;
+//     previous=current;
+//     current=forward;
+// }
+// return previous;
+//     }
+// }
     }
+    //recursive approach explanation in notes
+ListNode recursive(ListNode head){
+    if(head.next==null)return head;
+ListNode after=head.next;
+head.next=null;
+ListNode remaining=recursive(after);
+after.next=head;
+return remaining;
+
+}
 }
