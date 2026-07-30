@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
