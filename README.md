@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
+| [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 ## Matrix
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |
