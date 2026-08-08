@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0226-invert-binary-tree) |
@@ -119,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
