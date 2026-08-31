@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ //approach linklist ko todda or jooda that it
 class Solution {
     public int len(ListNode head){
         int length=0;
