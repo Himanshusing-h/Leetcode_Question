@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0125-valid-palindrome) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
