@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1721-swapping-nodes-in-a-linked-list) |
