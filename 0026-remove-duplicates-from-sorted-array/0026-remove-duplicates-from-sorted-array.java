@@ -3,23 +3,17 @@ class Solution {
         int i=0;
         int j=1;
         int k=1;
-        
         while(j<nums.length){
             if(nums[i]!=nums[j]){
-nums[i+1]=nums[j];
+                nums[i+1]=nums[j];
                 i++;
                 j++;
-                 k++;
-               
+                k++;
             }
             else{
                 j++;
             }
-            
-       
         }
-      
-            return k;
+        return k;
     }
 }
-      
