@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Matrix
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Recursion
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
