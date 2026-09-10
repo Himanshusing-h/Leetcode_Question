@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0141-linked-list-cycle) |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
