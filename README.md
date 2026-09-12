@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
