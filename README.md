@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0086-partition-list) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
