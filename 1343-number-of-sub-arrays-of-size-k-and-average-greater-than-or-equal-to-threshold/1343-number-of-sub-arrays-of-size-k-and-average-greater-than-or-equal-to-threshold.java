@@ -1,5 +1,7 @@
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
+        //approach
+        //find avg of first sub array then compare and increase count
         int avg=0;
         int low =0;
         int high=0;
