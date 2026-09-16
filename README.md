@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
@@ -208,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
