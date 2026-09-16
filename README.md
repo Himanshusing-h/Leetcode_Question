@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -208,7 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
