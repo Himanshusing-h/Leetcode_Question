@@ -1,5 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        //approach 
+        //normal variable size sliding window
         int low=0;
         int maxcount=0;
         int count =0;
