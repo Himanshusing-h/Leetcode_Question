@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0986-interval-list-intersections) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1652-defuse-the-bomb) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0066-plus-one) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0206-reverse-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
