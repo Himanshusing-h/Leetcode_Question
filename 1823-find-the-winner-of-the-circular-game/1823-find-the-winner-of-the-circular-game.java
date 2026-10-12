@@ -1,4 +1,8 @@
 class Solution {
+    //create a queue
+    //remove and add k-1
+    //remove kth element 
+    //until size q>1
     public int findTheWinner(int n, int k) {
       Queue<Integer> q = new LinkedList<>();
     for(int i=1;i<=n;i++){
