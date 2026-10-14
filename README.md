@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshusing-h/Leetcode_Question/tree/master/0977-squares-of-a-sorted-array) |
